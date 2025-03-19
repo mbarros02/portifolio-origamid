@@ -1,0 +1,20 @@
+.formacao {
+  background: #141414;
+  max-width: 1200px;
+  padding: 40px 20px;
+  margin: 0 auto;
+  display: grid;
+  gap: 100px;
+  grid-template-columns: 1fr 2fr;
+}
+
+.formacao .subtitulo {
+  color: black;
+  font-size: 6rem;
+  max-width: 5ch;
+  align-items: center;
+}
+
+.formacao-experiencia {
+  color: #ffffff;
+}
