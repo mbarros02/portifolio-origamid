@@ -32,3 +32,10 @@ main {
   max-width: 4ch;
   text-transform: uppercase;
 }
+
+@media (max-width: 800px) {
+  .subtitulo {
+    font-size: 4rem;
+    max-width: initial !important;
+  }
+}

@@ -41,7 +41,7 @@
 
 .empresa-ano {
   width: 80px;
-  text-align: right;
+  max-width: 40ch;
   position: absolute;
   left: -100px;
   top: 22px;
