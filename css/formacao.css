@@ -16,5 +16,13 @@
 }
 
 .formacao-experiencia {
-  color: #ffffff;
+  color: #e0e0e0;
+}
+
+.formacao-texto {
+  color: #e0e0e0;
+  font-size: 1.4rem;
+  text-align: begin;
+  line-height: 1.8rem;
+  padding: 0 0 60px 0;
 }
